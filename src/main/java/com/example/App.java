@@ -8,7 +8,7 @@ public class App
     {
         final String DB_URL = "jdbc:sqlserver://localhost:1433;DatabaseName=test;encrypt=true;trustServerCertificate=true;";
         final String USERNAME = "sa";
-        final String PASSWORD = "2395d3161\\!Ub";
+        final String PASSWORD = "myUbuntuPwd";
 
         Connection conn = null;
         Statement stmt = null;
